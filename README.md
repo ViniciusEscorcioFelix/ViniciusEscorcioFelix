@@ -13,8 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEscorcioFelix)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ### Principais Tecnologias
 <div style="display: inline_block"><br/>
     <img align="center" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
