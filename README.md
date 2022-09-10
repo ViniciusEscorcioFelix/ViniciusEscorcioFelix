@@ -11,7 +11,7 @@
 
 ![Vinícius Escorcio GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusEscorcioFelix&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEscorcioFelix)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEscorcioFelix)](https://github.com/ViniciusEscorcioFelix/github-readme-stats)
 
 ### Principais Tecnologias
 <div style="display: inline_block"><br/>
