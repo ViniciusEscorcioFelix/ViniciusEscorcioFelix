@@ -27,3 +27,5 @@
 
 - Principais recursos utilizados atualmente: Databricks, Azure Data Factory, Blob Storage, Azure SQL, PowerBI, MongoDB, Elasticsearch, Python e dotNET.
 
+
+💡 ”O aprendizado é constante”
