@@ -29,4 +29,4 @@
 
 - Principais recursos utilizados atualmente: Databricks, Azure Data Factory, Key Vault, Blob Storage, Azure SQL, PowerBI, MongoDB, Elasticsearch, Python e .NET Core.
 
-💡A ideia é iniciar a construção de algoritimos curtos que vão ajudar a manter a minha vivência codando e que indiretamente possa ajudar outros Devs. 
+💡A ideia é iniciar a construção de algoritimos que vão ajudar a manter a minha vivência codando e que possivelmente possa ajudar outros Devs. 
