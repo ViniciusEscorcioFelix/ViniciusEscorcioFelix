@@ -25,6 +25,5 @@
 
 - Apoio em atividades de desenvolvimento de soluções, sendo elas: Criação de fluxos ETL, Manipulação de Dados, Criação de Dashboards e Reports, Desenvolvimento de APIs baseadas em Microsserviços, entre outras.
 
-- Principais recursos utilizados atualmente: Databricks, Azure Data Factory, Key Vault, Blob Storage, Azure SQL, PowerBI, MongoDB, Elasticsearch, Python e .NET Core.
+- Principais recursos utilizados atualmente: Databricks, Azure Data Factory, Blob Storage, Azure SQL, PowerBI, MongoDB, Elasticsearch, Python e dotNET.
 
-💡A ideia é iniciar a construção de algoritimos que vão ajudar a manter a minha vivência codando e que possivelmente possa ajudar outros Devs. 
