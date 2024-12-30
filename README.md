@@ -21,7 +21,7 @@
 </div><br/>
 
  ### Principais Atividades
-- Atualmente atuando em atividades relacionadas a organização e disseminação de metodologias, fluxos de processos, visão analítica e liderança ágil. 
+- Atualmente, atuando em atividades relacionadas a organização e disseminação de metodologias, fluxos de processos, visão analítica e liderança ágil. 
 
 - Apoio em atividades de desenvolvimento de soluções, sendo elas: Criação de fluxos ETL, Manipulação de Dados, Criação de Dashboards e Reports, Desenvolvimento de APIs baseadas em Microsserviços, entre outras.
 
