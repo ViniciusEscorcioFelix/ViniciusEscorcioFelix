@@ -8,8 +8,6 @@
 
 <br/>
 
-![Vinícius Escorcio GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusEscorcioFelix&show_icons=true&theme=dracula)
-
 ### Principais Tecnologias
 <div style="display: inline_block"><br/>
     <img align="center" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
